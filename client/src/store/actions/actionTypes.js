@@ -1,0 +1,6 @@
+
+
+export const FETCH_TRXN_SUCCESS = 'FETCH_TRXN_SUCCESS';
+export const SUBMIT_TRXN_SUCCESS = 'SUBMIT_TRXN_SUCCESS';
+
+
